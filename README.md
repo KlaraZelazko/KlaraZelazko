@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Klara
 
-<!--
-**KlaraZelazko/KlaraZelazko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student from Kraków, Poland
+Actively developing my skills after hours, mainly in **.NET / backend**,
+while still being curious about frontend
 
-Here are some ideas to get you started:
+** 🌱 What I'm currently doing**
+* Learning software architecture and backend concepts.
+* Building small projects to practice my skills.
+* Exploring tools like Git and SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fun facts:**
+* Coffee ☕ + late evening coding
+* Anime fan (Attack on Titan, Chainsaw Man)
+* Reading & true crime podcasts
+* Cat owner 🐈
+
