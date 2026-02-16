@@ -1,17 +1,18 @@
 ## Hi there 👋 I'm Klara
 
-🎓Computer Science student from Kraków, Poland
+🌱CS student | Backend enthusiast   
+📍 Krakow, Poland
 
-🌱Actively developing my skills after hours, mainly in **.NET / backend**, while still being curious about frontend
-
-**What I'm currently doing**
-* Learning software architecture and backend concepts.
-* Building small projects to practice my skills.
-* Exploring tools like Git and SQL.
+**Current focus:**
+- Working with **Java** (university projects)
+- Expanding towards the **.NET ecosystem**
+- Learning software architecture & backend fundamentals
+- Building small projects with **HTML, CSS & JavaScript**
+- Practicing Git and SQL
 
 **Fun facts:**
-* Coffee & tea
-* Anime fan (Attack on Titan, Chainsaw Man)
-* Reading & true crime podcasts
-* Cat owner 
+* Running on coffee & tea
+* Anime lover (AoT, Chainsaw Man)
+* Into books & true crime podcasts
+* Cat owner 🐾
 
